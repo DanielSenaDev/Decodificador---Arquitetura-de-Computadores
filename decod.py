@@ -45,8 +45,6 @@ def realizar_operacao (tipo_instrucao, codigo_16bits):
 	return resultado
 
 
-
-
 codigo_entrada = 0
 
 while codigo_entrada != -1:
@@ -159,9 +157,3 @@ while codigo_entrada != -1:
 	print ("Registrador 1 BIN:",rg1)
 	print ("Registrador 2 Inteiro:",registradores[1])
 	print ("Registrador 2 BIN:",rg2)
-
-
-
-
-
-	
